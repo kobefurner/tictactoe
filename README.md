@@ -1,1 +1,1 @@
-Tic Tac Toe game built using WPF and C# in Visual Studio
+Tic Tac Toe game built using WPF, .NET, and C# in Visual Studio
